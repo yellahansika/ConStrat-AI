@@ -1,0 +1,8 @@
+node_modules/
+.env
+dist/
+build/
+.DS_Store
+
+# Optional: Uncomment to include VS Code workspace settings in the repo
+# .vscode/

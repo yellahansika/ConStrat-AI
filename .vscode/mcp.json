@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "hindsight": {
+      "type": "http",
+      "url": "https://api.hindsight.vectorize.io/mcp/Constrat AI/",
+      "headers": {
+        "Authorization": "Bearer hsk_dc4a2e2605b3ffa3e11e414b70b1b145_fd4b7cddd3214dd7"
+      }
+    }
+  }
+}
